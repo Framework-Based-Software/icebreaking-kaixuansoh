@@ -5,7 +5,7 @@ Hi! I'm Soh Kai Xuan, a student in the Framework-Based Software Design and Devel
 - **Fun fact**: I do videography and film photography.
 - **Course expectations**: Opportunities to work with various software frameworks.
 
-![My Image](photo.JPG)  <!-- Link to the uploaded image -->
+<img src="photo.JPG" alt="photo" width="300"/>
 
 ## GitHub Profile
 
